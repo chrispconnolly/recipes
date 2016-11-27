@@ -1,0 +1,6 @@
+Ingredients:
+ - 1 slice of bread
+
+Directions:
+  1. Put bread in toaster
+  2. Press toast button
